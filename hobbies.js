@@ -1,6 +1,6 @@
 function myHobbies( hobbyOne, hobbyTwo, hobbyThree){
     return{
-        hobbies : ['palestra', 'cinema', 'musica']
+        hobbies : hobbyOne, hobbyTwo, hobbyThree
     }
 }
 

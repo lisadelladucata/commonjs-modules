@@ -1,7 +1,7 @@
 function myName(firstName, lastName) {
     return {
-        name : firstName,
-        surname : lastName
+        firstName : firstName,
+        lastName : lastName
     };
 }
 
